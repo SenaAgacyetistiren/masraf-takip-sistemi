@@ -30,3 +30,11 @@ Kurumsal süreçlerde manuel yürütülen onay mekanizmalarını dijitalleştire
    ```bash
    git clone [https://github.com/KULLANICI_ADIN/masraf-takip-sistemi.git](https://github.com/KULLANICI_ADIN/masraf-takip-sistemi.git)
    cd masraf-takip-sistemi
+
+
+## 📸 Ekran Görüntüleri
+<img width="1462" height="767" alt="dashboard" src="https://github.com/user-attachments/assets/a267903e-f9e7-4abf-a85e-0e74627c3754" />
+
+
+
+   
